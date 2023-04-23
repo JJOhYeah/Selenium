@@ -4,15 +4,14 @@
 
 A Selenium web scraper that scrapes Booking.com.
 
-Prerequisites
+## Prerequisites
 
 Before you can use this scraper, you'll need to have the following prerequisites installed:
 
-    Python (recommended version 3.8 or above)
-    An IDE or text editor configured with Python installed (e.g. PyCharm, Visual Studio Code, Sublime Text)
-    The pip package manager (you can install this by running python get-pip.py in the command line)
-    The selenium package (you can install this by running pip install selenium in the command line)
-    A driver for launching the automation (we will use chromedriver.exe)
-        Be sure to match the version of Chrome you have
+    - Python (recommended version 3.8 or above)
+    - An IDE or text editor configured with Python installed (e.g. PyCharm, Visual Studio Code, Sublime Text)
+    - The pip package manager (you can install this by running python get-pip.py in the command line)
+    - The selenium package (you can install this by running pip install selenium in the command line)
+    - A driver for launching the automation (we will use chromedriver.exe)
 
 Make sure to have these prerequisites installed before attempting to use this scraper.
