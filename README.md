@@ -13,5 +13,3 @@ Before you can use this scraper, you'll need to have the following prerequisites
     - The pip package manager (you can install this by running "python get-pip.py" in the command line)
     - The selenium package (you can install this by running "pip install selenium" in the command line)
     - A driver for launching the automation (we will use chromedriver.exe)
-
-Make sure to have these prerequisites installed before attempting to use this scraper.
